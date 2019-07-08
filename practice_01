@@ -1,0 +1,16 @@
+Study Git 
+
+# Gitアカウントとのヒモ付け
+git config --global user.name <user_name>
+git config --global user.email <email>
+
+# Gitリポジトリの新規作成
+git init
+
+# ステージングエリアへ追加
+git add
+
+# 
+
+
+# 
