@@ -42,5 +42,6 @@ git push -u origin master
 #------- 現在の状況
 git status
 
-
-
+#------- 変更履歴を確認
+git log
+--oneline オプションで一行で確認できる
