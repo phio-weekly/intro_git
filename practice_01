@@ -39,8 +39,8 @@ git push -u origin master
 複数ファイルの変更
 
 
-
-
+#------- 現在の状況
+git status
 
 
 
